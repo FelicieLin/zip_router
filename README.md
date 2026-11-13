@@ -1,6 +1,6 @@
 # zip_router
 Python-ZIP-File-Decrypt-Routing
-ZIP 解密與解壓工具（Linux / Python 3.6）
+ZIP 解密與解壓工具（Linux / Python 3.6/pyzipper==0.3.6）
 
 1. 用途
 從 source/ 讀取加密 ZIP，由 conf/ZIPSource.properties 取得密碼。
