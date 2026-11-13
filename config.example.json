@@ -1,0 +1,15 @@
+{
+  "secret_file": "/etc/zip_router/sss.txt",
+  "password_encoding": "utf-8",
+  "max_uncompressed_bytes": 10737418240,
+  "routes": {
+    "ROUTE_A": {
+      "source": "/data/zip_router/source/route_a",
+      "output": "/data/zip_router/output/route_a"
+    },
+    "ROUTE_B": {
+      "source": "/data/zip_router/source/route_b",
+      "output": "/data/zip_router/output/route_b"
+    }
+  }
+}
